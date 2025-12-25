@@ -31,7 +31,6 @@ sites:
     url: $ENDPOINT_MASTODON_SERVER
     type: globalping
     location: Singapore
-    check: tcp-ping
 
 status-website:
   cname: status.diff.network
