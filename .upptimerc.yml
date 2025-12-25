@@ -2,21 +2,19 @@ owner: Diff-Network
 repo: network-status
 
 sites:
-  - name: Mastodon Web
-    url: https://diff.network/health
+  - name: Web Interface
+    url: https://diff.network/about
     expectedStatusCodes:
       - 200
-      - 301
-      - 302
     maxResponseTime: 5000
     
-  - name: Mastodon API
+  - name: API Service
     url: https://diff.network/api/v1/instance
     expectedStatusCodes:
       - 200
     maxResponseTime: 3000
     
-  - name: Mastodon Streaming
+  - name: Streaming API
     url: https://diff.network/api/v1/streaming/health
     expectedStatusCodes:
       - 200
@@ -28,12 +26,11 @@ sites:
       - 200
       - 304
     maxResponseTime: 2000
-    
-  - name: Web Interface
-    url: https://diff.network/about
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
+
+  - name: Ping Response
+    url: $ENDPOINT_MASTODON_SERVER
+    type: globalping
+    location: Singapore
 
 status-website:
   cname: status.diff.network
