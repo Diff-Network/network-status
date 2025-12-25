@@ -27,10 +27,17 @@ sites:
       - 304
     maxResponseTime: 2000
 
-  - name: Ping CDN
+  - name: Ping CDN (Cloudflare)
     url: diff.network
     type: globalping
     location: Singapore
+
+  - name: Ping Server (Singapore, sgp-01)
+    url: $ENDPOINT_MASTODON_SERVER
+    type: globalping
+    check: tcp-ping
+    location: Singapore
+    ipv6: false
 
 status-website:
   cname: status.diff.network
