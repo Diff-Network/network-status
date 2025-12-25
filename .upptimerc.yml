@@ -27,8 +27,8 @@ sites:
       - 304
     maxResponseTime: 2000
 
-  - name: Ping Response
-    url: $ENDPOINT_MASTODON_SERVER
+  - name: Ping CDN
+    url: diff.network
     type: globalping
     location: Singapore
 
