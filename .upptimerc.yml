@@ -24,7 +24,6 @@ sites:
     
   - name: Media Storage
     url: https://entity.diff.network/status_check.png
-    method: HEAD
     expectedStatusCodes:
       - 200
       - 304
