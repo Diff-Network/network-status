@@ -27,11 +27,6 @@ sites:
       - 304
     maxResponseTime: 2000
 
-  - name: Ping CDN (Cloudflare)
-    url: diff.network
-    type: globalping
-    location: Singapore
-
 status-website:
   cname: status.diff.network
   name: Diff.Network Status
