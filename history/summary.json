@@ -4,9 +4,9 @@
     "url": "https://diff.network/about",
     "icon": "https://icons.duckduckgo.com/ip3/diff.network.ico",
     "slug": "web-interface",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1455,
     "timeMonth": 1350,
     "timeYear": 1350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   },
   {
     "name": "API Service",
