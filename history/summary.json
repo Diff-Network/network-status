@@ -4,18 +4,20 @@
     "url": "https://diff.network/about",
     "icon": "https://icons.duckduckgo.com/ip3/diff.network.ico",
     "slug": "web-interface",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1367,
-    "timeDay": 1701,
-    "timeWeek": 1427,
-    "timeMonth": 1367,
-    "timeYear": 1367,
-    "dailyMinutesDown": {}
+    "time": 1998,
+    "timeDay": 11934,
+    "timeWeek": 3731,
+    "timeMonth": 1998,
+    "timeYear": 1998,
+    "dailyMinutesDown": {
+      "2026-01-16": 0
+    }
   },
   {
     "name": "API Service",
