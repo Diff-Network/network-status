@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/diff.network.ico",
     "slug": "web-interface",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 2524,
     "timeDay": 9925,
     "timeWeek": 4991,
     "timeMonth": 2524,
     "timeYear": 2524,
     "dailyMinutesDown": {
-      "2026-01-16": 40
+      "2026-01-16": 31
     }
   },
   {
