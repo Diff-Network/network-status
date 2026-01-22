@@ -4,10 +4,10 @@
     "url": "https://diff.network/about",
     "icon": "https://icons.duckduckgo.com/ip3/diff.network.ico",
     "slug": "web-interface",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.34%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 2523,
@@ -16,7 +16,7 @@
     "timeMonth": 2523,
     "timeYear": 2523,
     "dailyMinutesDown": {
-      "2026-01-22": 35,
+      "2026-01-22": 36,
       "2026-01-16": 31
     }
   },
