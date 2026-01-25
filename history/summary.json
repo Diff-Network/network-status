@@ -4,18 +4,19 @@
     "url": "https://diff.network/about",
     "icon": "https://icons.duckduckgo.com/ip3/diff.network.ico",
     "slug": "web-interface",
-    "status": "up",
-    "uptime": "99.78%",
+    "status": "down",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.79%",
     "time": 2474,
     "timeDay": 1435,
     "timeWeek": 2397,
-    "timeMonth": 2474,
+    "timeMonth": 2748,
     "timeYear": 2474,
     "dailyMinutesDown": {
+      "2026-01-25": 0,
       "2026-01-22": 65,
       "2026-01-16": 31
     }
@@ -34,7 +35,7 @@
     "time": 911,
     "timeDay": 295,
     "timeWeek": 840,
-    "timeMonth": 911,
+    "timeMonth": 941,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2025-12-30": 31
@@ -54,7 +55,7 @@
     "time": 268,
     "timeDay": 262,
     "timeWeek": 266,
-    "timeMonth": 268,
+    "timeMonth": 274,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -72,7 +73,7 @@
     "time": 300,
     "timeDay": 96,
     "timeWeek": 207,
-    "timeMonth": 300,
+    "timeMonth": 307,
     "timeYear": 300,
     "dailyMinutesDown": {}
   }
