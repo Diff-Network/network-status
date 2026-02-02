@@ -64,9 +64,9 @@
     "url": "https://entity.diff.network/status_check.png",
     "icon": "https://icons.duckduckgo.com/ip3/entity.diff.network.ico",
     "slug": "media-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,6 +75,8 @@
     "timeWeek": 427,
     "timeMonth": 314,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-02": 0
+    }
   }
 ]
